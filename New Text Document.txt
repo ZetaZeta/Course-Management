@@ -1,0 +1,2 @@
+User:  hearst_test, password blorple
+DB:  school_test
